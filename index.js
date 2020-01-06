@@ -8,5 +8,5 @@ function map (arr, func) {
 }
 
 function reduce (arr, func, startingValue) { 
-  
+  let final 
 } 
