@@ -7,3 +7,4 @@ function map (arr, func) {
     return newArr
 }
 
+function reduce 
