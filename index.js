@@ -14,5 +14,5 @@ function reduce (arr, func, startingValue) {
     for (; i < arr.length; i ++) {
         final = func(arr[i], final)
     }
-  return ending
+  return final
 }
