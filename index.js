@@ -7,4 +7,6 @@ function map (arr, func) {
     return newArr
 }
 
-function reduce (arr, func, )
+function reduce (arr, func, startingValue) { 
+  
+} 
